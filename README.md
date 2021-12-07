@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JigeeshaJain
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I have more than three years of expirirence with Tableau and Power BI and looking forward to work in Data Analytics field
+- 💞️ I have more than three years of experience with Tableau and Power BI and looking forward to work in Data Analytics field
 - 📫 How to reach me jjain1@binghamton.edu
 
 <!---
