@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JigeeshaJain
 - 👀 I’m interested in Software Development 
+- I am currently learning concepts of Cloud Computing including Amazon S3, Orchestration,Kubernetes 
 - 🌱 I have more than three years of experience with Tableau and Power BI and looking forward to work in Data Analytics field
 - 📫 How to reach me jjain1@binghamton.edu
 
