@@ -12,19 +12,17 @@
 
 👨‍💻 All of my projects are available at https://jigeeesha-website.vercel.app/
 
+💬 Ask me about React, Apache Kafka, KsqlDB, JavaScript, Blockchain, ReactJS, React Native, Growth Hacking, Python, Tableau, PowerBI, SQL
 
-💬 Ask me about react, freelancing, JavaScript, Blockchain, ReactJS, React Native, Growth Hacking, Python, UI/UX Design, Wordpress
+📄 Reach out to me on Linkedin https://www.linkedin.com/in/JigeeshaJain
 
-📄 Reach out to me on Linkedin [https://linkedin.com/in/mukulchugh](https://www.linkedin.com/in/JigeeshaJain
-)
+⚡ Fun fact I love Dogs 🐶❤️
 
-⚡ Fun fact I love Dogs 🐶
-
-- 🌱 I have more than three years of experience with Tableau and Power BI and looking forward to work in Data Analytics field
+🌱 I have more than three years of experience with Tableau and Power BI and looking forward to work in Data Analytics field
 
 - I have interened as a Software developer at Pavilion Data systems where I have worked on Schema registry and KsqlDB
 
-- 📫 How to reach me jjain1@binghamton.edu
+📫 How to reach me jjain1@binghamton.edu
 
 <!---
 JigeeshaJain/JigeeshaJain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
