@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JigeeshaJain
+👋 Hi, I’m @JigeeshaJain
 
-- 👀 I’m interested in Software Development 
+👀 I’m interested in Software Development 
 
-- I’m currently pursuing Masters in Computer Science &
+I’m currently pursuing Masters in Computer Science 
 
 🌱 I’m currently learning ReactJS, React Native, Python, Django, Cloud Computing
 
